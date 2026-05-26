@@ -2,11 +2,6 @@
 
 A modern, responsive, and professional software engineer portfolio website built using HTML, CSS, and JavaScript.
 
-## 🌐Live Demo
-
-Coming Soon...
-
----
 
 # 📌Features
 
@@ -56,32 +51,27 @@ portfolio-website/
 ## 1. E-Commerce Website
 A full-stack e-commerce web application with responsive design and cart functionality.
 
-## 2. Weather Dashboard
-Real-time weather application using APIs and dynamic UI.
-
-## 3. Expense Tracker
-Track income and expenses with interactive UI and local storage support.
-
-## 4. Air Quality Prediction
+## 2. Air Quality Prediction
 Machine learning project to predict PM2.5 concentration.
 
-## 5. Car Price Prediction
+## 3. Car Price Prediction
 Machine learning model for predicting car prices.
 
+## 4. Weather Dashboard
+Real-time weather application using APIs and dynamic UI.
+
+## 5. Expense Tracker
+Track income and expenses with interactive UI and local storage support.
+
+
 ---
 
-# 📸 Screenshots
 
-Add screenshots here later.
 
----
-
-# 👩‍💻 Author
-
+# 👩‍💻Author
 ## M. Manasa
 
 - Backend Developer
-- Full Stack Developer
 - AI Enthusiast
 
 ---
@@ -89,7 +79,7 @@ Add screenshots here later.
 # 📬 Contact
 
 - GitHub: https://github.com/Manasa924
-- LinkedIn: Add Your LinkedIn Link
+- LinkedIn: https://www.linkedin.com/in/manasa-chowdary-b75a652a2/
 
 ---
 
